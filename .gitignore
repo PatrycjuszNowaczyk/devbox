@@ -1,0 +1,2 @@
+docker/temp/*
+docker/nginx/ssl/*.pem
